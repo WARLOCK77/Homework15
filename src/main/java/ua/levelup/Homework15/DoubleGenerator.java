@@ -1,3 +1,5 @@
+package ua.levelup.Homework15;
+
 public class DoubleGenerator extends AbstractGenerator<Double>{
     @Override
     public Double getNextRand() {

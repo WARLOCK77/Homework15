@@ -1,3 +1,7 @@
+package ua.levelup.Homework15.annotation;
+
+import ua.levelup.Homework15.Generator;
+
 import java.lang.annotation.*;
 
 @Target(ElementType.METHOD)

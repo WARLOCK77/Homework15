@@ -1,3 +1,5 @@
+package ua.levelup.Homework15;
+
 public class IntegerGenerator extends AbstractGenerator<Integer>{
 
     @Override

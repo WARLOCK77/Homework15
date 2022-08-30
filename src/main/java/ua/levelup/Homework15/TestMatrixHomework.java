@@ -1,8 +1,7 @@
-package ua.levelup.homework14;
+package ua.levelup.Homework15;
 
-
-import ua.levelup.homework14.annotations.MatrixProperties;
-import ua.levelup.homework14.annotations.MatrixProperty;
+import ua.levelup.Homework15.annotation.MatrixProperties;
+import ua.levelup.Homework15.annotation.MatrixProperty;
 
 import java.lang.reflect.Method;
 
